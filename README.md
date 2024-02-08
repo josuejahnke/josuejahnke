@@ -12,9 +12,8 @@ Bem-vindo ao meu reino digital, onde a magia do código se encontra com a bravur
 
 ```javascript
 const skills = {
-  languages: ["HTML", "CSS", "JavaScript", "Python"],
-  frontend: ["React", "Vue.js"],
-  backend: ["Node.js", "Express", "Django"],
+  languages: ["HTML", "CSS", "JavaScript"],
+  backend: ["Node.js"],
   database: ["MongoDB", "MySQL"],
   tools: ["Git", "VS Code"],
 };
